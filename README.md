@@ -8,39 +8,45 @@ This project focuses on whether company will go bankruptcy or not. Knowing about
 
 
 ### Models Report:
-![report](images/report.png)
-
-
-* Information about numerical features
-
-![describe_df](https://user-images.githubusercontent.com/34678255/225874846-d445353c-5227-4684-9a8e-3d8ee38d3477.png)
+![report](https://user-images.githubusercontent.com/34678255/227089000-5fb29a31-cdc2-425c-810d-28b1a15282ee.png)
 
 
 ### Imbalance target feature was balanced
+![imbalance](https://user-images.githubusercontent.com/34678255/227089138-a251f6c2-2f65-4269-9a82-c028176474a5.png)
 
-![target_col_unbalanced](https://user-images.githubusercontent.com/34678255/225873228-6b3dd665-4da2-4ace-9dab-4e00489ffa8f.png)
 
 ### After applying SMOTE 
-![target_col_balanced](https://user-images.githubusercontent.com/34678255/225873291-26b5ecf0-35ed-43ca-b440-b5ccaad39a79.png)
+![balance](https://user-images.githubusercontent.com/34678255/227089185-e17740f6-aa8f-4ec3-8212-e544a574bb90.png)
+
 
 
 * Correlation Plot
 
-![heatmap](https://user-images.githubusercontent.com/34678255/225873757-b5e8965b-84f2-4557-893f-171d7c6b60cf.png)
+![heatmap](https://user-images.githubusercontent.com/34678255/227089217-34ba7d32-dd37-441f-9a61-c7e8df36d102.png)
+
 
 * Outliers 
 
-![outliers](https://user-images.githubusercontent.com/34678255/225874250-ecd60cad-93ce-47e3-af98-cd881323648a.png)
+![outliers](https://user-images.githubusercontent.com/34678255/227089253-72cf5584-5ccd-4927-8ff8-a6525202f19d.png)
+
+### handled outliers
+![handled_outliers](https://user-images.githubusercontent.com/34678255/227089318-4df8bf07-a17b-46b8-a88a-68ffe74518c7.png)
+
 
 * Bivariate Analysis
 
-![crosstab](https://user-images.githubusercontent.com/34678255/225874471-adbd096e-7e6e-4d93-89fd-c2b796d16059.png)
+![striplot](https://user-images.githubusercontent.com/34678255/227089402-4dec1075-3391-4b9e-afaa-90134ffd787d.png)
 
-![outcomewithsubscription](https://user-images.githubusercontent.com/34678255/225874522-303e86de-d5cb-46bd-bad3-c8a9a2c51228.png)
+![scatterplot](https://user-images.githubusercontent.com/34678255/227089436-0f4ea0e4-5dc0-48de-968f-e73fa4dd14df.png)
 
-KDEPlot to do scaling
 
-![distribution](https://user-images.githubusercontent.com/34678255/225874722-833660a5-a703-4718-a697-7b365b85200e.png)
+Plot to do scaling
+
+![plot](https://user-images.githubusercontent.com/34678255/227089495-44419bd2-342c-4fc1-be0d-3ec575f22033.png)
+
+![plot_1](https://user-images.githubusercontent.com/34678255/227089514-d9edc793-d50b-4348-92a4-4fea4fb49d2d.png)
+
+
 
 
 ### ML Models Used:
