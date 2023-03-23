@@ -4,11 +4,11 @@
 This project focuses on whether company will go bankruptcy or not. Knowing about the companies condition is always helpful for the investors. With the help of various parameters we can predict that company is in good condition.
 
 ### Dataset
-* [Dataset](https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set) link from kaggle.
+* [Dataset](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction) link from kaggle.
 
 
 ### Models Report:
-![model_report](https://user-images.githubusercontent.com/34678255/225872690-ec48c454-6777-486c-9686-adb57db39d29.png)
+![report](images/report.png)
 
 
 * Information about numerical features
